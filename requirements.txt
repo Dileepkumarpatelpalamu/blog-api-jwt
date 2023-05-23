@@ -16,7 +16,7 @@ MarkupSafe==2.1.2
 packaging==23.1
 PyJWT==2.6.0
 pytz==2023.3
-requests==2.29.0
+requests==2.31.0
 ruamel.yaml==0.17.21
 ruamel.yaml.clib==0.2.7
 sqlparse==0.4.4
